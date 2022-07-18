@@ -1,7 +1,7 @@
 <?php
 return [
-    //'exchange-api-url' => 'https://developers.paysera.com/tasks/api/currency-exchange-rates'
-    'exchange-api-url' => 'https://kobacik.com/payment.json',
+    'exchange-api-url' => 'https://developers.paysera.com/tasks/api/currency-exchange-rates',
+    //'exchange-api-url' => 'https://kobacik.com/payment.json',
 
     'base-currency' => 'EUR',
 
