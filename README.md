@@ -9,12 +9,21 @@ php 8.1 <br>
 
 ### Install project
 
-clone repository from: 
+clone repository from: https://github.com/kobacik/pay-example
 <br>
 <br>
 install project with composer
 ```
 composer install
+```
+
+set environment file
+```
+cp .env.example .env
+```
+generate app key
+```
+php artisan key:generate
 ```
 
 serve project
